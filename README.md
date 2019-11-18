@@ -27,5 +27,5 @@
 
 ## Reference
    本次实验参考github有<br>
-   ![https://github.com/JavisPeng/u_net_liver](https://github.com/JavisPeng/u_net_liver)<br>
-   ![https://github.com/zhixuhao/unet](https://github.com/zhixuhao/unet)<br>
+   ![](https://github.com/JavisPeng/u_net_liver)<br>
+   ![](https://github.com/zhixuhao/unet)<br>
