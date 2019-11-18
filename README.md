@@ -25,6 +25,11 @@
 ## Operation instructions
    配置环境之后运行main.py
 
+## Sample
+![](https://github.com/Czt1998/U-net/edit/master/dataset/test/0.png)
+
+![](https://github.com/Czt1998/U-net/edit/master/dataset/test/0_predict.png)
+
 ## Reference
    本次实验参考github有<br>
    [https://github.com/JavisPeng/u_net_liver](https://github.com/JavisPeng/u_net_liver)<br>
