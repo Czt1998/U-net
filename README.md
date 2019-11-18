@@ -26,9 +26,9 @@
    配置环境之后运行main.py
 
 ## Sample
-![](https://github.com/Czt1998/U-net/edit/master/dataset/test/0.png)
+<div align=center><img src="https://github.com/Czt1998/U-net/blob/master/dataset/test/0.png" /></div>
 
-![](https://github.com/Czt1998/U-net/edit/master/dataset/test/0_predict.png)
+<div align=center><img src="https://github.com/Czt1998/U-net/blob/master/dataset/test/0_predict.png"/></div>
 
 ## Reference
    本次实验参考github有<br>
