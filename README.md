@@ -9,3 +9,9 @@
    此代码中包含函数功能有：<br>
    1、对训练数据、测试数据的读取与矩阵化处理（在'main.py'被转成tensor）<br>
    2、对预测结果的二值化处理
+ 
+## Operating environment
+      1、Ubuntu 16.04<br>
+      2、python 3.6<br>
+      3、cuda 9.0<br>
+      4、pytorch<br>
