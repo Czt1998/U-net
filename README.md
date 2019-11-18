@@ -11,7 +11,14 @@
    2、对预测结果的二值化处理
  
 ## Operating environment
+ 本次实验的环境如下：<br>
    1、Ubuntu 16.04<br>
    2、python 3.6<br>
    3、cuda 9.0<br>
    4、pytorch<br>
+ 需要的第三方模块如下：<br>
+   1、numpy
+   2、PIL
+   3、tqdm
+   4、skimage
+   
